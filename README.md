@@ -22,3 +22,6 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+# 新增
+- 解决小程序请求豆瓣报错403问题
+ - 把api.douban.com换成douban.uieee.com
